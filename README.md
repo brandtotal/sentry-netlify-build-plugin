@@ -1,3 +1,8 @@
+Fork of https://github.com/getsentry/sentry-netlify-build-plugin due to https://github.com/getsentry/sentry-netlify-build-plugin/issues/30
+This repo WILL be deleted once they fix it.
+
+---
+
 # Sentry Netlify build plugin &nbsp;&nbsp;&nbsp;<a href="https://app.netlify.com/start/deploy?repository=https://github.com/getsentry/sentry-netlify-build-plugin"><img src="https://www.netlify.com/img/deploy/button.svg"></a>
 
 Automatically upload source maps and notify [Sentry](https://sentry.io/) of new releases being deployed to your site after it finishes building in Netlify.
